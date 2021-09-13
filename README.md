@@ -22,6 +22,6 @@ Para el monitoreo de las variables fisicas harémos uso de la implementación de
 2. Modulo sensor de intesidad luminosa Gy/302 Bh1750. Costo $64.
 3. Sensor de humedad de tierra-suelo arduino. Costo $70.
 
-Video: https://drive.google.com/file/d/12G0LMZ9lgmh_tFVVkIubE0DxNn5sgJCU/view?usp=sharing_eil_dm&ts=613ed916
+Video:https://www.youtube.com/watch?v=VLYo_4iU5Do
 
 
