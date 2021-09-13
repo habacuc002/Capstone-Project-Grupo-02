@@ -4,9 +4,9 @@ Plantilla para proyecto capstone.
 Nombre del proyecto: Sensor para el monitoreo de cultivos agrícolas. 
 
 Integrantes: 
-- González Limón Habacuc
-- Flores Martínez Erick
-- Ortega López Fabian Andrés
+- González Limón Habacuc.
+- Flores Martínez Erick.
+- Ortega López Fabian Andrés.
 
 Objetivos:
 Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo de PH,humedad y luminosidad en cultivos agrícolas. 
