@@ -3,6 +3,11 @@ Plantilla para proyecto capstone.
 
 Nombre del proyecto: Sensor para el monitoreo de cultivos agrícolas. 
 
+Integrantes: 
+- González Limón Habacuc
+- Flores Martínez Erick
+- Ortega López Fabian Andrés
+
 Objetivos:
 Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo de PH,humedad y luminosidad en cultivos agrícolas. 
 
@@ -16,5 +21,7 @@ Para el monitoreo de las variables fisicas harémos uso de la implementación de
 1. Sensor de PH con modulo Arduino.  Costo $600.
 2. Modulo sensor de intesidad luminosa Gy/302 Bh1750. Costo $64.
 3. Sensor de humedad de tierra-suelo arduino. Costo $70.
+
+Video: https://drive.google.com/file/d/12G0LMZ9lgmh_tFVVkIubE0DxNn5sgJCU/view?usp=sharing_eil_dm&ts=613ed916
 
 
